@@ -26,13 +26,12 @@ header{
     flex-wrap: wrap;
 }
 
-.links{
+.Links{
     padding: 5px;
     background-color: blue;
     flex: 2;
 }
-.rechts{
-    
+.Rechts{
     background-color: purple;
     flex: 9;
     padding: 5px;
