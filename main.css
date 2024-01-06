@@ -1,0 +1,55 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+
+header{
+    background-image: url("Luchtfoto_Hoornaar_kerk_xgaplus.jpeg" ) ;
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Rubik Maps';
+    font-size: xx-large;
+    
+}
+
+#links{
+    min-height: 300px;
+    background-color: blue;
+}
+#rechts{
+    min-height: 300px;
+    background-color: purple;
+}
+body{
+    background-color: salmon;
+    color: black;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+[class*="col-"] {
+    width: 100%;}@media only screen and (min-width: 600px) {[class*="col-"] {
+float: left;
+padding: 15px;
+}
+.col-1 {width: 9.09%;}
+.col-2 {width: 18.18%;}
+.col-3 {width: 27.27%;}
+.col-4 {width: 36.36%;}
+.col-5 {width: 45.45%;}
+.col-6 {width: 54.54%;}
+.col-7 {width: 63.63%;}
+.col-8 {width: 72.72%;}
+.col-9 {width: 81.81%;}
+.col-10 {width: 90.90%;}
+.col-11 {width: 100%;}
+
+
+
+
+
+footer{
+    background-color: red;
+    margin: 10px;
+    padding: 5px;
+    text-align: 
+}
