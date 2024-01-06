@@ -1,6 +1,14 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
 
+  body{
+    background-color: yellow;
+    color: black;
+    margin: 0;
+    text-align: center;
+    padding: 5px;
+}
+
 header{
     background-image: url("Luchtfoto_Hoornaar_kerk_xgaplus.jpeg" ) ;
     margin: 10px;
@@ -10,41 +18,25 @@ header{
     
 }
 
-#links{
-    min-height: 300px;
+
+
+
+.Centraal {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.links{
+    padding: 5px;
     background-color: blue;
+    flex: 2;
 }
-#rechts{
-    min-height: 300px;
+.rechts{
+    
     background-color: purple;
-}
-body{
-    background-color: salmon;
-    color: black;
-    margin: auto;
-    text-align: center;
+    flex: 9;
     padding: 5px;
 }
-
-[class*="col-"] {
-    width: 100%;}@media only screen and (min-width: 600px) {[class*="col-"] {
-float: left;
-padding: 15px;
-}
-.col-1 {width: 9.09%;}
-.col-2 {width: 18.18%;}
-.col-3 {width: 27.27%;}
-.col-4 {width: 36.36%;}
-.col-5 {width: 45.45%;}
-.col-6 {width: 54.54%;}
-.col-7 {width: 63.63%;}
-.col-8 {width: 72.72%;}
-.col-9 {width: 81.81%;}
-.col-10 {width: 90.90%;}
-.col-11 {width: 100%;}
-
-
-
 
 
 footer{
