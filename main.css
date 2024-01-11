@@ -10,8 +10,10 @@ body{
     margin: 0;
     padding: 5px;
 }
+
 @media only screen and (min-width: 768px) {
-  body{
+  
+body{
     background-color: yellow;}
 }
 
@@ -45,15 +47,11 @@ header{
 }
 
 .Stier{
-  position: absolute;
-  top: 15px;
-  right: 15px;
+  
 }
 
   .Plein{
-    position: absolute;
-    top: 15px;
-    right: 15px;
+    
   }
 
 
