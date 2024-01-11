@@ -40,14 +40,14 @@ header{
     background-color: blue;
     flex: 2;
 }
-.Rechts{
+#Rechts{
     background-color: purple;
     flex: 9;
     padding: 5px;
 }
 
-.Stier{
-  
+#Stier{
+  float: right
 }
 
   .Plein{
