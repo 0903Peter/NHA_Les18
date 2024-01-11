@@ -4,7 +4,8 @@
 body{
     @media only screen and (mind with: 768px){
     background-color: yellow;}
-    body{
+
+body{
     background-color: green;
     color: black;
     margin: 0;
