@@ -43,6 +43,18 @@ header{
     padding: 5px;
 }
 
+.Stier{
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+  .Plein{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+  }
+
 
 footer{
     background-color: red;
