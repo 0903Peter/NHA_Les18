@@ -2,7 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
 
 body{
-  @media oly screen and (mind with: 768px){
+    @media only screen and (mind with: 768px){
     background-color: pink;}
     body{
     background-color: green;
