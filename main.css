@@ -2,7 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
 
 
-@media only screen and (min with: 768px){
+@media only screen and (min-width: 768px){
   body{
     background-color: yellow;}
 }
