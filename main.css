@@ -1,9 +1,11 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
 
-body{
-    @media only screen and (mind with: 768px){
+
+@media only screen and (min with: 768px){
+  body{
     background-color: yellow;}
+}
 
 body{
     background-color: green;
