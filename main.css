@@ -3,7 +3,7 @@
 
 body{
     @media only screen and (mind with: 768px){
-    background-color: pink;}
+    background-color: yellow;}
     body{
     background-color: green;
     color: black;
